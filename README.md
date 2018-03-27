@@ -1,5 +1,7 @@
 # SimpleYoutubeApp-React
 
+Simple YouTube app with React using YouTube API
+
 ### Getting Started
 
 Checkout this repo, install dependencies, then start the gulp process with the following:
